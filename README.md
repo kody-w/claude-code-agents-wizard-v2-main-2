@@ -1,3 +1,7 @@
+<!-- retired-notice:start -->
+> **Archived.** No longer maintained; kept public for reference.
+<!-- retired-notice:end -->
+
 Join the Skool - https://www.skool.com/iss-ai-automation-school-6342/about
 
 # Claude Code Agent Orchestration System v2 🚀
